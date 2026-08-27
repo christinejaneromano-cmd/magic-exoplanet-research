@@ -20,7 +20,7 @@ Contains the original data used in the analysis.
 Contains the spreadsheet used to analyze the visual light curve data.
   - Contains the imported light curve data, graphs, transit measurements, and calculations used to estimate the planets' parameters.
 
-"Characterizing Exoplanets Using Kepler Space Telescope Data.docx"
+"Characterizing Exoplanets Using Kepler Space Telescope Data-2.docx"
 
 Contains the project report/research paper for this project, with the full project process, results, insights, and verifications.
 
